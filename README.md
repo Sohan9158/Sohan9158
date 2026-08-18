@@ -67,4 +67,4 @@ Connect With Me
 
 💻 GitHub: github.com/Sohan9158
 
-🔗 LinkedIn: Add your LinkedIn Profile
+<!--🔗 LinkedIn: Add your LinkedIn Profile-
